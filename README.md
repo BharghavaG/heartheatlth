@@ -27,7 +27,7 @@ HeartHealth AI is an intelligent chatbot designed to assess the risk of heart at
 
 1. Clone the repository:
    ```bash
-   https://github.com/theManiac218/heartheatlth.git
+   https://github.com/BharghavaG/heartheatlth.git
    ```
 2. Install the required dependencies:
    ```bash
