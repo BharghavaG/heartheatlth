@@ -68,4 +68,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact us at goudibharghava.com.
+For any questions or suggestions, please open an issue or contact us at goudibharghava@gmail.com.
